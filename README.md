@@ -42,3 +42,17 @@ Where it belongs.
   import java.util.HashSet;
 ```
 
+- How Wrapper Class in java works. I've used it already.
+```bash
+ ArrayList<Integer> myNumbers = new ArrayList<Integer>();
+```
+Example
+```bash
+  Integer myInt = 5;
+    Double myDouble = 5.99;
+    Character myChar = 'A';
+    System.out.println(myInt);
+    System.out.println(myDouble);
+    System.out.println(myChar);
+```
+
