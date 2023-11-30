@@ -56,6 +56,6 @@ Example
     System.out.println(myChar);
 ```
 
-So on----------
-*You are requested to see all of the concepts and codes.*
+So on----------  
+**You are requested to see all of the concepts and codes.**
 
