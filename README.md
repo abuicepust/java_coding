@@ -1,4 +1,3 @@
-
 # Java Basic to Advance Concepts
 
 What I've done so far in Java Programming.
@@ -55,7 +54,7 @@ Example
     System.out.println(myDouble);
     System.out.println(myChar);
 ```
-How can we Implement LinkedList in Java
+How can we Implement Singly LinkedList in Java
 ```bash
   class ListNodeNew{
     int val;
