@@ -55,7 +55,7 @@ Example
     System.out.println(myDouble);
     System.out.println(myChar);
 ```
-How we can Implement LinkedList
+How can we Implement LinkedList in Java
 ```bash
   class ListNodeNew{
     int val;
