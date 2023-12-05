@@ -71,6 +71,25 @@ How can we Implement Singly LinkedList in Java
 }
 ```
 
+How can we Implement Binary Tree in Java
+```bash
+  class TreeNodeNew {
+    int val;
+    TreeNodeNew left;
+    TreeNodeNew right;
+    TreeNodeNew() {
+
+    }
+    TreeNodeNew(int val) {
+        this.val = val;
+    }
+    TreeNodeNew(int val, TreeNodeNew left, TreeNodeNew right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
+    }
+}
+```
 So on----------  
 **You are requested to see all of the concepts and codes.**
 
